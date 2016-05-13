@@ -1,9 +1,11 @@
+
 {
   "type": "FeatureCollection",
   "features": [{
         "type": "Feature",
         "id": "AUS",
         "speed": "4.602",
+        "Color" : "#698B22",
         "properties": {
           "name": "Australia"
         },
@@ -265,6 +267,7 @@
         "type": "Feature",
         "id": "AUT",
         "speed": "5.683",
+        "Color": "#C73F17",
         "properties": {
           "name": "Austria"
         },
@@ -316,6 +319,7 @@
         "type": "Feature",
         "id": "BEL",
         "speed": "6.908",
+        "Color": "#FF8C00",
         "properties": {
           "name": "Belgium"
         },
@@ -345,6 +349,7 @@
         "type": "Feature",
         "id": "CAN",
         "speed": "4.783",
+        "Color": "#f1f1f1",
         "properties": {
           "name": "Canada"
         },
@@ -1269,6 +1274,7 @@
         "type": "Feature",
         "id": "CZE",
         "speed": "5.776",
+        "Color": "#5EDA9E",
         "properties": {
           "name": "Czech Republic"
         },
@@ -1318,6 +1324,7 @@
         "type": "Feature",
         "id": "DNK",
         "speed": "8.720",
+        "Color": "#A5435C",
         "properties": {
           "name": "Denmark"
         },
@@ -1362,6 +1369,7 @@
         "type": "Feature",
         "id": "FIN",
         "speed": "8.360",
+        "Color": "#F0F0F0",
         "properties": {
           "name": "Finland"
         },
@@ -1414,6 +1422,7 @@
         "type": "Feature",
         "id": "FRA",
         "speed": "8.874",
+        "Color": "#DC143C",
         "properties": {
           "name": "France"
         },
@@ -1489,6 +1498,7 @@
         "type": "Feature",
         "id": "DEU",
         "speed": "8.614",
+        "Color": "#FCDC3B",
         "properties": {
           "name": "Germany"
         },
@@ -1561,6 +1571,7 @@
         "type": "Feature",
         "id": "GRC",
         "speed": "4.343",
+        "Color": "#FF0000",
         "properties": {
           "name": "Greece"
         },
@@ -1635,6 +1646,7 @@
         "type": "Feature",
         "id": "HUN",
         "speed": "4.241",
+        "Color": "#00EEEE",
         "properties": {
           "name": "Hungary"
         },
@@ -1680,6 +1692,7 @@
         "type": "Feature",
         "id": "ISL",
         "speed": "3.951",
+        "Color": "#fffffff",
         "properties": {
           "name": "Iceland"
         },
@@ -1714,6 +1727,7 @@
         "type": "Feature",
         "id": "IRL",
         "speed": "4.064",
+        "Color": "#1DA237",
         "properties": {
           "name": "Ireland"
         },
@@ -1741,6 +1755,7 @@
         "type": "Feature",
         "id": "ITA",
         "speed": "3.620",
+        "Color": "#FCB514",
         "properties": {
           "name": "Italy"
         },
@@ -1852,6 +1867,7 @@
         "type": "Feature",
         "id": "JPN",
         "speed": "12.646",
+        "Color": "#FF3333",
         "properties": {
           "name": "Japan"
         },
@@ -1941,6 +1957,7 @@
         "type": "Feature",
         "id": "KOR",
         "speed": "20.493",
+        "Color": "#0EBFE9",
         "properties": {
           "name": "South Korea"
         },
@@ -1974,6 +1991,7 @@
         "type": "Feature",
         "id": "LUX",
         "speed": "4.100",
+        "Color": "#71C671",
         "properties": {
           "name": "Luxembourg"
         },
@@ -1995,6 +2013,7 @@
         "type": "Feature",
         "id": "MEX",
         "speed": "1.377",
+        "Color": "#9932CD",
         "properties": {
           "name": "Mexico"
         },
@@ -2179,6 +2198,7 @@
         "type": "Feature",
         "id": "NLD",
         "speed": "10.750",
+        "Color": "#E33638",
         "properties": {
           "name": "Netherlands"
         },
@@ -2207,6 +2227,7 @@
         "type": "Feature",
         "id": "NZL",
         "speed": "4.014",
+        "Color": "#3232CC",
         "properties": {
           "name": "New Zealand"
         },
@@ -2293,6 +2314,7 @@
         "type": "Feature",
         "id": "NOR",
         "speed": "7.102",
+        "Color": "#6183A6",
         "properties": {
           "name": "Norway"
         },
@@ -2409,6 +2431,7 @@
         "type": "Feature",
         "id": "POL",
         "speed": "3.177",
+        "Color": "#ADEAEA",
         "properties": {
           "name": "Poland"
         },
@@ -2468,6 +2491,7 @@
         "type": "Feature",
         "id": "PRT",
         "speed": "7.020",
+        "Color": "#00C957",
         "properties": {
           "name": "Portugal"
         },
@@ -2515,6 +2539,7 @@
         "type": "Feature",
         "id": "SVK",
         "speed": "6.726",
+        "Color": "#C0FF3E",
         "properties": {
           "name": "Slovakia"
         },
@@ -2562,6 +2587,7 @@
         "type": "Feature",
         "id": "ESP",
         "speed": "4.577",
+        "Color": "#FBDB0C",
         "properties": {
           "name": "Spain"
         },
@@ -2627,6 +2653,7 @@
         "type": "Feature",
         "id": "SWE",
         "speed": "14.626",
+        "Color": "#CDC0B0",
         "properties": {
           "name": "Sweden"
         },
@@ -2721,6 +2748,7 @@
         "type": "Feature",
         "id": "CHE",
         "speed": "8.433",
+        "Color": "#FFE4B5",
         "properties": {
           "name": "Switzerland"
         },
@@ -2759,6 +2787,7 @@
         "type": "Feature",
         "id": "TUR",
         "speed": "2.489",
+        "Color": "#EE4000",
         "properties": {
           "name": "Turkey"
         },
@@ -2846,6 +2875,7 @@
         "type": "Feature",
         "id": "GBR",
         "speed": "5.172",
+        "Color": "#236B8E",
         "properties": {
           "name": "United Kingdom"
         },
@@ -2922,6 +2952,7 @@
         "type": "Feature",
         "id": "USA",
         "speed": "6.636",
+        "Color": "#4372AA",
         "properties": {
           "name": "United States of America"
         },

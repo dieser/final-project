@@ -1,9 +1,13 @@
+
+@import url(https://fonts.googleapis.com/css?family=Timmana|Actor);
+
 h1 {
   margin: 0px;
   padding: 5px;
   font-size: 40px;
-  line-height: 45px;
+  line-height: 50px;
   text-align: center;
+  font-family: 'Timmana', sans-serif;
 }
 
 body {
@@ -20,22 +24,25 @@ body {
 
 .container p {
   font-size: 16px;
-  margin: 0;
+  margin: 0px;
   text-align: center;
+  font-family: 'Actor', sans-serif;
 }
 
 .container .disclaimer {
   font-size: 14px;
   text-align: center;
+  font-family: 'Actor', sans-serif;
+  padding-bottom: 5px;
 }
 
 .append-data {
   position: absolute;
   right: 0;
-  top: 100px;
+  top: 40px;
   margin: 0 15px 0 0;
   max-width: 200px;
-  padding: 10px 20px;
+  padding: 10px 10px;
   color: gainsboro;
   border: 1px solid gainsboro;
 }
@@ -44,4 +51,10 @@ body {
   font-size: 18px;
   margin: 0;
   padding: 5px;
+}
+.speed-data {
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Actor', sans-serif;
+    margin-bottom: 3px;
 }
